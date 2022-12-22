@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": "Brandon Huffman",
+      "title": "College football recruiting: 2022 National Signing Day schedule, key announcement times, predictions, picks - CBS Sports",
+      "description": "Everything you need to know about National Signing Day as the Class of 2023 begins putting ink to paper",
+      "url": "https://www.cbssports.com/college-football/news/college-football-recruiting-2022-national-signing-day-schedule-key-announcement-times-predictions-picks/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/12/20/519a5eae-4324-442c-a170-e320b3358e4e/thumbnail/1200x675/385a1ffc3250b5d66924bc4a4e6f68dc/matayo.jpg",
+      "publishedAt": "2022-12-21T05:47:00Z",
+      "content": "Wednesday marks the opening of the early signing period for the 2023 college football recruiting cycle, and with the majority of the Top247 prospects having already made their decisions, all eyes wil… [+4143 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Dan Wetzel",
+      "title": "Packers' playoff chances are slim. Then again, Aaron Rodgers knows all about improbable comebacks - Yahoo Sports",
+      "description": "Following Green Bay's second straight win Monday night, Rodgers reverted back to his old confident, even cocky, self, sending a positive message to his own...",
+      "url": "https://sports.yahoo.com/packers-playoff-chances-are-slim-then-again-aaron-rodgers-knows-all-about-improbable-comebacks-220819453.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/in.st1FlgPCJ_Oss3qsi8Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-12/9a4ee870-80b2-11ed-83fb-af203dda5ff6",
+      "publishedAt": "2022-12-20T22:08:19Z",
+      "content": "Even after Green Bay earned consecutive wins via a 24-12 victory over the Los Angeles Rams on Monday, the chances that the Packers (6-8) pull off an end-of-season run into the playoffs remains remote… [+4607 chars]"
+    }
+  ]
+}
